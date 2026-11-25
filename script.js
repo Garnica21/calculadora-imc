@@ -1,3 +1,9 @@
+/*
+  Proyecto: Calculadora de índice de masa corporal
+  Autor: Marco Antonio Guzmán Garnica
+  Descripción: Valida el peso y la estatura, calcula el IMC y actualiza
+  el resultado y su categoría cada vez que cambia uno de los campos.
+*/
 const formulario = document.getElementById("formulario-imc");
 const campoPeso = document.getElementById("peso");
 const campoEstatura = document.getElementById("estatura");
